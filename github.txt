@@ -1,0 +1,19 @@
+entro a github
+https://github.com/mjarquin-d/postgres
+creo un nuevo repositorio
+verifico si tengo git si no lo instalo
+git version 2.25.1.windows.1
+--Me hubico en la carpeto de lo que voy a subir
+cd C:\Users\AULA 6\Desktop\clase practica
+ls
+dir
+git init
+git remote add origin https://github.com/mjarquin-d/postgres.git
+git status
+git add .
+git status
+git commit -m "Mi primer commit"
+git config user.email "elizabethjarq@yahoo.com"
+git config user.name "mjarquin-d"
+git commit -m "Mi primer commit"
+git push origin master
